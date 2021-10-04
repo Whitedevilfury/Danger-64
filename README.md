@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
+<img src="https://img.icons8.com/color/48/000000/github.png" title="Github" >
