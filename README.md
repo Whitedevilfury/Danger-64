@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="Github" >
+
+------------------------
+
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" > 
+<img src = "https://img.icons8.com/fluency/49/node-js.png" title = "Node.js">
+<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" title="SQL" > 
