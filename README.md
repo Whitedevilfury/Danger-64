@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Tech Stack
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="Github" >
 <img src="https://img.icons8.com/windows/2x/26e07f/django.png" title="Django" height=46 width=46 >
